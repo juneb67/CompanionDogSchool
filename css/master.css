@@ -16,6 +16,43 @@ body {
 	margin: 0 20%;
 }
 
+.main-box {
+	padding-right: 60px;
+    padding-left: 60px;
+	border-radius: 6px;
+	padding-top: 0;
+	padding-bottom: 48px;
+	margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+
+.main-box h2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #063E53;
+	text-shadow: 2px 2px 5px #777;
+}
+
+.small-box {
+	margin-bottom: 15px;
+	border-bottom: 2px solid #999;
+}
+
+.last-row {
+	border-bottom: 2px solid #999;
+	padding: 10px 0;
+    margin-bottom: 15px;
+}
+
+.sub-active {
+	padding: 5px 0;
+    color: #735D41;
+    background-color: #e7e7e7;}
+
+p.line-space {
+	line-height: 2.15em;
+    padding-bottom: 15px;}
+
 .brand-color {
 	color: #063E53;
 }
