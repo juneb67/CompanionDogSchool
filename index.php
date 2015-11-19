@@ -16,11 +16,16 @@ require 'includes/header.php';
 				<div class="col-md-12">
 					<p class="top-p" style="font-size: 1em;">Companion Dog School in Louisville, KY is a premier dog training 
 					facility that offers obedience training, agilty training, boarding and more. Pat Higgins has been in the 
-					industry for over 38 years. Our positive motivation and reinforcement techniques makes 
-					the bond between the dog and owner stronger.</p>
+					industry for over 38 years.</p>
 					
-					<p class="bottom-p" style="font-size: 1em;">Please contact us if you need more information or you are ready 
-					to start your pet training expierence.</p>
+					
+					<p class="mid-p" style="font-size: 1em;">Companion Dog School offers a wide variety of classes and services 
+					to suit any need.  From puppy training to agility training, we've got it all! Our positive motivation and 
+					reinforcement techniques makes the bond between the dog and owner stronger.</p>
+
+					<p class="bottom-p" style="font-size: 1em;">Over 50,000 students have made the choice to enroll in Companion 
+					Dog School . . . look through our website and you'll find out why. Please contact us if you need more 
+					information or you are ready to start your pet training expierence.</p>
 				</div><!-- column -->
 			</div><!-- row -->
 		

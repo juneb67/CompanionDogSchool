@@ -97,8 +97,45 @@ p.line-space {
 	border-top: 2px solid;
 }
 
-.small-font {
-	font-size: 14px;
+.main-box h4 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #063E53;
+	text-shadow: 1px 1px 3px #777;
+}
+
+.extra-padding {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.main-box img {
+	margin-top: 10px;
+	margin-bottom: 25px;
+	box-shadow: 3px 3px 7px 3px #777;
+}
+
+.paw-prints i {
+	padding-right: 8px;
+    color: #735D41;
+    font-size: 1.15em;	
+}
+
+.fb-icon i {
+    font-size: 2em;
+	color: #09688E;
+	border-radius: 6px;
+	margin-top: 15px;
+}
+
+.fb-icon i:hover {
+	opacity: .5;
+}
+
+.mid-p {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #063E53;
+	margin-top: 20px;
+	padding: 0 10px;
 }
 
 .bottom-p {
@@ -107,6 +144,10 @@ p.line-space {
     margin-bottom: 10px;
 	padding: 0 10px 10px;
     border-bottom: 2px solid;
+}
+
+.small-font {
+	font-size: 14px;
 }
 
 .jumbo_nopadding{

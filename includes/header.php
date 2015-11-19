@@ -140,6 +140,9 @@
 					</li>
 					<li <?php if($title == 'Contact') echo 'class="active"'; ?> ><a href="/contact">Contact</a></li>
 				</ul>
+
+
+
           	</div><!--/.nav-collapse -->
         
 		</div><!--/.container -->

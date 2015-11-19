@@ -2,12 +2,11 @@
 	
 	<!-- Static navbar -->
 	<div class="navbar navbar-default navbar-fixed-bottom" role="navigation">
-		<div class="container">
-			<div class="footer text-center">
-				&copy; <?php echo date("Y") ?> Companion Dog School. All rights reserved.<br>
-				6501 Shepherdsville Road . Louisville, KY 40228 . (502) 969-3644
-			</div><!-- footer -->
-		</div><!--/.container -->
+		<div class="footer text-center">
+			&copy; <?php echo date("Y") ?> Companion Dog School. All rights reserved.<br>
+			6501 Shepherdsville Road . Louisville, KY 40228 . (502) 969-3644
+			
+		</div><!-- footer links -->
 	</div><!-- navbar -->
 
     <!-- Bootstrap core JavaScript
